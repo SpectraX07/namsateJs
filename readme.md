@@ -64,8 +64,8 @@ When the code runs, **Execution Contexts** and the **Call Stack** work toget
     - Call Stack:
 
       ```css
-      [ Global Execution Context ]
       [ square Execution Context ]
+      [ Global Execution Context ]
       ```
 
 3. **After Returning from `square(n)`**
@@ -75,8 +75,8 @@ When the code runs, **Execution Contexts** and the **Call Stack** work toget
     - Call Stack:
 
       ```css
-      [ Global Execution Context ]
       [ square Execution Context ]
+      [ Global Execution Context ]
       ```
 
 5. **After Returning from `square(4)`**
